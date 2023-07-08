@@ -1,0 +1,29 @@
+{
+  "name": "timeconv",
+  "version": "1.0.0",
+  "description": "Converts short time strings into numeric values representing that time in seconds",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtual-designer/timeconv.git"
+  },
+  "types": "types/index.d.ts",
+  "keywords": [
+    "time",
+    "ms",
+    "milliseconds",
+    "seconds",
+    "timeconv",
+    "string",
+    "string-to-time"
+  ],
+  "author": "Ar Rakin <rakinar2@onesoftnet.eu.org>",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/virtual-designer/timeconv/issues"
+  },
+  "homepage": "https://github.com/virtual-designer/timeconv#readme"
+}

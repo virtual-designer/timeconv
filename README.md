@@ -4,7 +4,13 @@ Converts short time strings into numeric values representing that time in second
 
 ### Documentation
 
-To use `timeconv` in your project, simply import it in your JS/TS file.
+To use `timeconv` in your project, install it using the following command:
+
+```
+npm install timeconv
+```
+
+And then simply import it in your JS/TS file.
 
 ```ts
 import timeconv from 'timeconv';

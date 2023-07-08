@@ -1,6 +1,6 @@
 {
   "name": "timeconv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts short time strings into numeric values representing that time in seconds",
   "main": "src/index.js",
   "scripts": {
